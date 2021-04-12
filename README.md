@@ -14,7 +14,7 @@ A sample Content Management System built with React, GraphQL and GraphCMS.
 1. Clone the repository:
 
 ```bash
-$ git clone https://github.com/Icheka/blog-cms-using-react-graphql-and-graphcms.git
+$ git clone https://github.com/Dunebook/graphCmsReactblog/
 ```
 
 2. Checkout the `blog` branch to access the source code for the blog clientside web app
